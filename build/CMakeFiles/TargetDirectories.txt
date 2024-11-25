@@ -1,0 +1,3 @@
+/home/achang/PROGRAM/FlameSForce_Vision/build/CMakeFiles/CatchPhoto.dir
+/home/achang/PROGRAM/FlameSForce_Vision/build/CMakeFiles/edit_cache.dir
+/home/achang/PROGRAM/FlameSForce_Vision/build/CMakeFiles/rebuild_cache.dir
